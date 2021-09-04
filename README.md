@@ -10,6 +10,7 @@ The major features of website includes:
 
 In short, V Study will act as a one stop solution for all people looking to improve their productivity levels at work and mostly, learning.
 
+Website Link: https://epic-allen-715f0a.netlify.app/
 
 Sincere efforts by 
 
